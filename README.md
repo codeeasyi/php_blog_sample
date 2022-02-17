@@ -1,4 +1,5 @@
 Herzlich Willkommen! http://ildu.bplaced.net/
+
 Ich benutze hier das kostenlose bplaced.net für mein Beispiel Projekt einen Blog.
 Das ganze ist noch sehr ausbaufähig, soll mehr als Grundgerüst dienen.
 
@@ -13,6 +14,7 @@ Vielen Dank für den Besuch. Viele Grüße Ilja Dulsan.
 ################################################################################
 
 Welcome to this site! http://ildu.bplaced.net/
+
 I use the free bplaced.net for my example project a blog.
 The whole thing is still very expandable, should serve more as a basic framework.
 
